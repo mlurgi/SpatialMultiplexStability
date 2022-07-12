@@ -1,0 +1,9 @@
+To use the individual-based simulations framework donwload this folder and run the script 'main.py'.
+
+The configure.py file contains the values of parameters relevant to the model.
+
+You should also download the file web.py from my repository https://github.com/mlurgi/pywebs to take advantage of the library for food web analyses.
+
+Any problems let me know @ miguel.lurgi@swansea.ac.uk
+
+Enjoy!
