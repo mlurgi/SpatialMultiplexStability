@@ -4,10 +4,13 @@ Individual-based model to investigate stability in complex ecological networks
 The code within this repository was developed to investigate the joint effects of space and a multiplicity of interaction types (trophic + mutualistic) on complex networks of ecological interactions.
 
 Author: **Miguel Lurgi**
+
 Developed at: 
 
 ***Centre for Ecological Research and Forestry Applications (CREAF), Barcelona, Spain.***
+
 AND
+
 ***Marine Sciences Institute, Spanish National Research Council, Barcelona, Spain.***
 
 This code was used to support the research published in:
