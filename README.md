@@ -20,3 +20,5 @@ Lurgi, M., Montoya, D. & Montoya, J.M. (2016) The effects of space and diversity
 AND
 
 McWilliams, C., Lurgi, M., Montoya, J.M. et al. (2019) The stability of multitrophic communities under habitat loss. ***Nature Communications*** 10, 2322.
+
+If you have any questions / run into any issues, please contact me at miguel.lurgi@swansea.ac.uk
